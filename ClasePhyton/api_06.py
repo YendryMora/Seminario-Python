@@ -2,12 +2,12 @@
 Institucion..: Universidad Tecnica Nacional
 Sede.........: Del Pacífico
 Carrera......: Tecnologías de la Información
-Periodo......: 1-2018
+Periodo......: 
 Charla.......: Introducción a Python
 Documento....: api_06.py
 Objetivos....: Creación de micro servicios web (api-REST)
 Encargado....: Jorge Ruiz (york)
-Estudiante...:
+Estudiante...: Yendry Mora
 ================================================================================================"""
 
 from flask import Flask, jsonify, abort, make_response, request

@@ -2,12 +2,12 @@
 Institucion..: Universidad Tecnica Nacional
 Sede.........: Del Pacífico
 Carrera......: Tecnologías de la Información
-Periodo......: 1-2018
+Periodo......: 
 Charla.......: Introducción a Python
 Documento....: api_03.py
 Objetivos....: Creación de micro servicios web (api-REST)
 Encargado....: Jorge Ruiz (york)
-Estudiante...:
+Estudiante...: Yendry Mora
 ================================================================================================"""
 
 # Configura el reconocimiento de caracteres especiales

@@ -2,7 +2,7 @@
 Institucion..: Universidad Tecnica Nacional
 Sede.........: Del Pacifico
 Carrera......: Tecnologias de la Informacion
-Periodo......: 1-2018
+Periodo......: 
 Charla.......: Introduccion a Python
 Documento....: dati_01.py
 Objetivos....: Acceso a bases de datos
